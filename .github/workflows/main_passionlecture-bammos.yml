@@ -52,4 +52,4 @@ jobs:
           app-name: 'Passionlecture-Bammos'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAA990ACC506436795AB7497D252B68A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_703C60938C324CC7BA5ADCF3BD81A564 }}
